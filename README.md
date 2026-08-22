@@ -10,14 +10,14 @@
 
 <div align="left">
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+  <legend align="left"><h3>Sobre Mim</h3></legend>
 
   <em>
-Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec Mogi das Cruzes</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Informática para a Internet, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+Sou desenvolvedor Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>UDF</strong> com foco em desenvolvimento de sistemas.</p>
   </em> 
   <br>
 <div align= "center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
+ <b><i>Tecnologias em aprendizado</i></b> 
 </div>
 
 <br>
@@ -60,19 +60,11 @@ Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise 
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
   </kbd>
   <br>
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
-</div>
-
-<div align="center">
-  <a href="https://github.com/krisnarane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisnarane&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
-  </a>
 </div>
 
 <br>
 <br>
 
-- 📫 Contato: **jkrisnarane@gmail.com**
+- 📫 Contato: **Gabriel.s.paz05@gmail.com**
 
 <p align="center"> 
