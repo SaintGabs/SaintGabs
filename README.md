@@ -26,6 +26,8 @@ Gosto de aprender construindo: já desenvolvi uma API de estoque, um sistema Kan
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 </p>
@@ -36,6 +38,7 @@ Gosto de aprender construindo: já desenvolvi uma API de estoque, um sistema Kan
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
 ### Bancos de dados
@@ -69,5 +72,5 @@ Gosto de aprender construindo: já desenvolvi uma API de estoque, um sistema Kan
 | [Atividades em C](https://github.com/SaintGabs/AtividadesC) | Exercícios acadêmicos de lógica, estruturas condicionais, repetição, vetores e funções. | C e C++ |
 
 <p align="center">
-  <a href="mailto:Gabriel.s.paz05@gmail.com">Vamos conversar? Gabriel.s.paz05@gmail.com</a>
+  <a href="mailto:Gabriel.s.paz05@gmail.com">Gabriel.s.paz05@gmail.com</a>
 </p>
