@@ -1,67 +1,73 @@
-<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Eu sou o Gabriel!</h1> 
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
+<h1 align="center">Olá! 👋 Eu sou o Gabriel!</h1>
+<h3 align="center">Estudante de ADS na UDF · Desenvolvimento back-end</h3>
 
 <p align="center">
-  <a href="mailto:Gabriel.s.paz05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-paz-b65262398/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:Gabriel.s.paz05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-paz-b65262398/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Gabriel" /></a>
+  <a href="https://github.com/SaintGabs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Gabriel" /></a>
 </p>
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
+## Sobre mim
 
-<div align="left">
-<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>Sobre Mim</h3></legend>
+Sou Gabriel dos Santos Paz, estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário do Distrito Federal (UDF), em Brasília. Meu foco é desenvolvimento back-end, com projetos em C#/.NET e Python.
 
-  <em>
-Sou desenvolvedor Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>UDF</strong> com foco em desenvolvimento de sistemas e lógica de programação.
-  </em> 
-  <br><br>
-<div align= "center">
- <b><i>Tecnologias e Ferramentas</i></b> 
-</div>
+Gosto de aprender construindo: já desenvolvi uma API de estoque, um sistema Kanban e automações com consumo de APIs. Também estudo lógica de programação, bancos de dados e engenharia de software.
 
-<br>
-  
-<p style="display: inline-block;" align="center">
-   <kbd>
-    <kbd>Linguagens / Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  </kbd>
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Banco de Dados</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Outros</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-  </kbd>
-  <br>
-</div>
+- Sou representante de turma e gosto de compartilhar o que aprendo.
+- Uso IA como apoio ao desenvolvimento e exploro automações com agentes.
+- Estudo inglês e pratico a compreensão do idioma com séries.
+- Leio sobre engenharia de software durante o transporte diário.
 
-<br>
-<br>
+## Tecnologias e ferramentas
 
-- 📫 Contato: **Gabriel.s.paz05@gmail.com**
+### Back-end e lógica de programação
 
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
+
+### Desenvolvimento web
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### Bancos de dados
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
+</p>
+
+## Projetos
+
+| Projeto | O que desenvolvi | Tecnologias |
+| --- | --- | --- |
+| StockFlow API | Back-end de gestão de estoque com endpoints REST e filas de prioridade. | C#, .NET e SQL Server |
+| Kanban web | Sistema de gerenciamento de tarefas com quadro Kanban. | Python, SQLite, HTML, CSS e JavaScript |
+| Automação meteorológica | Script para consumir e tratar dados JSON da WeatherAPI. | Python e API REST |
+| MedClock | Protótipo acadêmico para controle e agendamento de horários de medicamentos. | JavaScript, HTML e CSS |
+| Hoje tem Festa | Projeto de gestão de eventos com requisitos, histórias de usuário, diagramas BPMN e protótipos de interface. | Figma e modelagem de sistemas |
+| [Atividades em C](https://github.com/SaintGabs/AtividadesC) | Exercícios acadêmicos de lógica, estruturas condicionais, repetição, vetores e funções. | C e C++ |
+
+<p align="center">
+  <a href="mailto:Gabriel.s.paz05@gmail.com">Vamos conversar? Gabriel.s.paz05@gmail.com</a>
 </p>
